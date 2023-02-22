@@ -1,0 +1,15 @@
+C:\Users\cesar\OneDrive\Escritorio\Incertezas\bin\Debug\net7.0\Incertezas.exe
+C:\Users\cesar\OneDrive\Escritorio\Incertezas\bin\Debug\net7.0\Incertezas.deps.json
+C:\Users\cesar\OneDrive\Escritorio\Incertezas\bin\Debug\net7.0\Incertezas.runtimeconfig.json
+C:\Users\cesar\OneDrive\Escritorio\Incertezas\bin\Debug\net7.0\Incertezas.dll
+C:\Users\cesar\OneDrive\Escritorio\Incertezas\bin\Debug\net7.0\Incertezas.pdb
+C:\Users\cesar\OneDrive\Escritorio\Incertezas\obj\Debug\net7.0\Incertezas.csproj.AssemblyReference.cache
+C:\Users\cesar\OneDrive\Escritorio\Incertezas\obj\Debug\net7.0\Incertezas.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\cesar\OneDrive\Escritorio\Incertezas\obj\Debug\net7.0\Incertezas.AssemblyInfoInputs.cache
+C:\Users\cesar\OneDrive\Escritorio\Incertezas\obj\Debug\net7.0\Incertezas.AssemblyInfo.cs
+C:\Users\cesar\OneDrive\Escritorio\Incertezas\obj\Debug\net7.0\Incertezas.csproj.CoreCompileInputs.cache
+C:\Users\cesar\OneDrive\Escritorio\Incertezas\obj\Debug\net7.0\Incertezas.dll
+C:\Users\cesar\OneDrive\Escritorio\Incertezas\obj\Debug\net7.0\refint\Incertezas.dll
+C:\Users\cesar\OneDrive\Escritorio\Incertezas\obj\Debug\net7.0\Incertezas.pdb
+C:\Users\cesar\OneDrive\Escritorio\Incertezas\obj\Debug\net7.0\Incertezas.genruntimeconfig.cache
+C:\Users\cesar\OneDrive\Escritorio\Incertezas\obj\Debug\net7.0\ref\Incertezas.dll
